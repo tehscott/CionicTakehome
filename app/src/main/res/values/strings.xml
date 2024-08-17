@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CionicTakehome</string>
+    <string name="retry">Retry</string>
+    <string name="error_message">Sorry, there was an issue getting the feed!</string>
+    <string name="ok">Ok</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="list_empty_state_message">No items were found ಠ_ಠ</string>
+</resources>
